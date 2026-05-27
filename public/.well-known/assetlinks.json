@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.rouh.standalone",
-        "sha256_cert_fingerprints": ["7E:73:B9:6C:C1:44:3B:2B:46:4D:BF:9E:FB:D5:EE:7F:2C:41:D5:8E:93:4F:7A:77:42:72:A7:9F:E0:C4:0A:3E"]
+        "sha256_cert_fingerprints": ["58:6D:DB:D4:18:72:C2:08:FE:9F:9A:9C:F5:67:55:1E:2B:F7:15:0E:22:A8:B7:31:55:A4:E5:C8:CC:54:C8:F3"]
       }
     }]
