@@ -1,8 +1,14 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.rouh.standalone",
-        "sha256_cert_fingerprints": ["8D:15:4A:6B:76:05:CB:07:D5:C4:E7:D1:AE:D4:11:A8:C8:4E:07:04:D7:C8:A7:F9:A3:97:63:24:16:8A:2D:2C"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.rouh.standalone",
+      "sha256_cert_fingerprints": [
+        "00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00:00"
+      ]
+    }
+  }
+]
